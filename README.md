@@ -2,6 +2,7 @@
 | ----------------- | ----- | -------- | -------- | -------- | -------- | --------- | -------- | -------- | -------- | -------- | ----- |
 
 # Hello World Example
+https://docs.google.com/document/d/1d287iBgf6PrUQP3595mdJfCy70J5gWc1U1FZ363fapY/edit?usp=sharing
 
 Starts a FreeRTOS task to print "Hello World".
 
